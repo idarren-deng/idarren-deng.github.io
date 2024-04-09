@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Pattern Recognition and Intelligent Systems, University of Chinese Academy of Sciences, 2023
+* M.S. in Mechatronic Engineering, Harbin Institute of Technology, 2016
+  * Research Internship, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, 2014-2015
+* B.S. in Mechanical and Automation, Wuhan University of Technology, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 till now: Postdoctoral Fellow/Assistant Professor
+  * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+  * Research includes: Robotic Manipulation and Control, Biomechanic System and Application.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2016 to August 2017: Research Assistant
+  * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+  * Research includes: ROS-based Robotic System Development, Planning and Control.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.state == 'selected' %}
+        {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
