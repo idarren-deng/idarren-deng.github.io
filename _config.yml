@@ -48,8 +48,6 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
 
 # Analytics
 analytics:
