@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Selected Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
         
-  - title: "Posts"
-    url: /blog/
-    
+  - title: "Blog Posts"
+    url: /posts/
+
   - title: "Daily Life"
     url: /moments/
 
   - title: "CV"
     url: /cv/
-
-  - title: "About SIAT"
-    url: /siat/
