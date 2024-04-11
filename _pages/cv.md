@@ -15,9 +15,9 @@ Dr. Hao Deng is currently a Postdoctoral Fellow/Assistant Professor in robotics 
 
 Hao's research mainly focuses on robotics and biomechanics, especially the fundamentals and applications of deformable object manipulation. As a key member, he has participated in many projects such as the National Key Research and Development Plan of China, Natural Science Foundation of China (NSFC), and Guangdong Province Major Science and Technology Project. He has also been the PI of Fund for Distinguished Young Scholars of the Youth Innovation Promotion Association, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (2016-2017).
 
-Hao obtained his Ph. D. in Pattern Recognition and Intelligent Systems from the University of Chinese Academy of Sciences, Beijing, and Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, in 2023, supervised by Prof. Zeyang Xia and Prof. Jing Xiong. Before Ph. D., he worked as a research assistant at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen. 
+Hao obtained his Ph. D. in Pattern Recognition and Intelligent Systems from the University of Chinese Academy of Sciences, Beijing, and Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, in 2023. Before Ph. D., he worked as a research assistant at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen. 
 
-Hao obtained his master in mechatronic engineering from Harbin Institute of Technology, Shenzhen, China, in 2015, supervised by Prof. Shoubin Liu. During his master, he visited the Medical Robots and Biomechanics Lab led by Prof. Zeyang Xia at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences for 2 years. And Hao obtained his B.S. degree in mechanical engineering and automation from the Wuhan University of Technology, Wuhan, China, in 2012.
+Hao obtained his master in mechatronic engineering from Harbin Institute of Technology, Shenzhen, China, in 2015. During his master, he has been visiting the Medical Robots and Biomechanics Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences for 2 years. And Hao obtained his B.S. degree in mechanical engineering and automation from the Wuhan University of Technology, Wuhan, China, in 2012.
 
 Education
 ======
