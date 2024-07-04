@@ -1,12 +1,12 @@
 ---
-title: 'How to use Markdown-01'
+title: 'How-to Markdown-01'
 date: 2024-04-10
 permalink: /posts/2024/04/learning-markdown-01/
 tags:
   - markdown
 ---
 
-This is my first post for Markdown learning. 
+Notes for Markdown learning. 
 
 [Markdown Documentation](https://www.markdownguide.org)
 ## Headings

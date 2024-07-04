@@ -14,7 +14,7 @@ name                     : &name "Hao Deng"
 description              : &description "personal academic website"
 url                      : https:///idarren-deng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "idarren-deng.github.io"
+repository               : "idarren-deng/idarren-deng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -61,6 +61,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
