@@ -13,12 +13,54 @@ Use Tesla's built-in browser to visit this page and to view the selected image i
 <script src="{{ base_path }}/assets/js/viewer.js"></script>
 
 <div class="container">
-  <h2 style="text-align:center;">Image Viewer</h2>
+  <h2 style="text-align:center;">Click to open image viewer</h2>
   <div class="viewer" style="display:flex;justify-content:center;">
     <img src="/images/viewer/1.jpg" data-original="/images/viewer/1.jpg" width="520" alt="married" />
   </div>
 </div>
 
+<div class="container"></div>
+<h2 style="text-align:center;">Click to open image viewer</h2>
+<div id="galley" style="display:flex;justify-content:center;">
+  <ul class="pictures">
+    <li><img src="/images/viewer/1.jpg" data-original="/images/viewer/1.jpg" width="520" alt="married" /></li>
+    <li><img src="/images/viewer/2.jpg" data-original="/images/viewer/2.jpg" width="520" alt="married" /></li>
+  </ul>
+</div>
+</div>
+
 <script>
   new Viewer(document.querySelector('.viewer'));
+</script>
+
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    var galley = document.getElementById('galley');
+    var viewer = new Viewer(galley, {
+      url: 'data-original',
+      toolbar: {
+        oneToOne: true,
+
+        prev: function () {
+          viewer.prev(true);
+        },
+
+        play: true,
+
+        next: function () {
+          viewer.next(true);
+        },
+
+        download: function () {
+          const a = document.createElement('a');
+
+          a.href = viewer.image.src;
+          a.download = viewer.image.alt;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        },
+      },
+    });
+  });
 </script>
