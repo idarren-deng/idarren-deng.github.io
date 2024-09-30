@@ -12,26 +12,26 @@ Use Tesla's built-in browser to visit this page and to view the selected image i
 <link rel="stylesheet" href="{{ base_path }}/assets/css/viewer.css">
 <script src="{{ base_path }}/assets/js/viewer.js"></script>
 
-<div class="container">
+<!-- <div class="container">
   <h2 style="text-align:center;">Click to open image viewer</h2>
   <div class="viewer" style="display:flex;justify-content:center;">
     <img src="/images/viewer/1.jpg" data-original="/images/viewer/1.jpg" width="520" alt="married" />
   </div>
-</div>
+</div> -->
+
+<!-- <script>
+  new Viewer(document.querySelector('.viewer'));
+</script> -->
 
 <div class="container"></div>
 <h2 style="text-align:center;">Click to open image viewer</h2>
 <div id="galley" style="display:flex;justify-content:center;">
   <ul class="pictures">
-    <li><img src="/images/viewer/1.jpg" data-original="/images/viewer/1.jpg" width="520" alt="married" /></li>
-    <li><img src="/images/viewer/2.jpg" data-original="/images/viewer/2.jpg" width="520" alt="married" /></li>
+    <li><img src="/images/viewer/1.jpg" data-original="/images/viewer/1.jpg" alt="married" /></li>
+    <li><img src="/images/viewer/2.jpg" data-original="/images/viewer/2.jpg" alt="married" /></li>
   </ul>
 </div>
 </div>
-
-<script>
-  new Viewer(document.querySelector('.viewer'));
-</script>
 
 <script>
   window.addEventListener('DOMContentLoaded', function () {
