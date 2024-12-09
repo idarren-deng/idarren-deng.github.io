@@ -23,3 +23,27 @@ Documentation
 ---
 Here is the instruction docs found in the docs folder of offical Download Archive.
 <p style="text-decoration:underline;"><a href="/docs/isaacgym_docs/index.html">Local Isaac Gym’s Documentation</a></p>
+
+Notes
+---
+For anyone trying to set a conda environment up to add/remove LD_LIBRARY_PATH on activation/deactivation.
+
+1. Activate the conda environment
+2. Create files that are used/checked during activation/deactivation.
+```
+cd $CONDA_PREFIX
+mkdir -p ./etc/conda/activate.d
+mkdir -p ./etc/conda/deactivate.d
+touch ./etc/conda/activate.d/env_vars.sh
+touch ./etc/conda/deactivate.d/env_vars.sh
+```
+3. Edit ./etc/conda/activate.d/env_vars.sh as follows:
+```
+export ORIG_LD_LIBRARY_PATH=$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
+```
+4. Edit ./etc/conda/deactivate.d/env_vars.sh as follows:
+```
+export LD_LIBRARY_PATH=$ORIG_LD_LIBRARY_PATH
+```
+Then, when you conda activate env_name it will add $CONDA_PREFIX/lib to LD_LIBRARY_PATH and when you conda deactivate it will return the LD_LIBRARY_PATH to what it was before activation.
