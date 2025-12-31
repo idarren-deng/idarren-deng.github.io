@@ -11,28 +11,35 @@ redirect_from:
 
 Bio
 ======
-Dr. Hao Deng is currently a Postdoctoral Fellow/Assistant Professor in robotics and biomechanics at the Institute of Advanced Integration Technology, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (SIAT, CAS).
+Dr. Hao Deng is currently an Assistant Professor in robotics and biomechanics at the Institute of Advanced Integration Technology, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (SIAT, CAS).
 
-Hao's research mainly focuses on robotics and biomechanics, especially the fundamentals and applications of deformable object manipulation. As a key member, he has participated in many projects such as the National Key Research and Development Plan of China, Natural Science Foundation of China (NSFC), and Guangdong Province Major Science and Technology Project. He has also been the PI of Fund for Distinguished Young Scholars of the Youth Innovation Promotion Association, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (2016-2017).
+Hao's research mainly focuses on robotics and biomechanics, especially the fundamentals and applications of deformable object manipulation and dexterous manipulation. As a key member, he has participated in many projects such as the National Key Research and Development Plan of China, Natural Science Foundation of China (NSFC), and Guangdong Province Major Science and Technology Project. He has been the PI of the Distinguished Young Scholars Fund of the Youth Innovation Promotion Association, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (2016-2018) and the Youth Startup Program, Guangdong-Hong Kong-Macao National Center for Applied Mathematics (2025-2027).
 
-Hao obtained his Ph. D. in Pattern Recognition and Intelligent Systems from the University of Chinese Academy of Sciences, Beijing, and Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, in 2023. Before Ph. D., he worked as a research assistant at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen. 
+Hao obtained his Ph.D. in Pattern Recognition and Intelligent Systems from the University of Chinese Academy of Sciences, Beijing, and Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, in 2023. Before Ph.D., he worked as a research assistant at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen. 
 
-Hao obtained his master in mechatronic engineering from Harbin Institute of Technology, Shenzhen, China, in 2015. During his master, he has been visiting the Medical Robots and Biomechanics Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences for 2 years. And Hao obtained his B.S. degree in mechanical engineering and automation from the Wuhan University of Technology, Wuhan, China, in 2012.
+Hao obtained his Master in Mechatronic Engineering from Harbin Institute of Technology, Shenzhen, China, in 2015. During his Master, he was visiting the Medical Robots and Biomechanics Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences for 2 years. Hao obtained his B.S. degree in Mechanical Engineering and Automation from the Wuhan University of Technology, Wuhan, China, in 2012.
 
 Education
 ======
 * Ph.D in Pattern Recognition and Intelligent Systems, University of Chinese Academy of Sciences, 2023
-* M.S. in Mechatronic Engineering, Harbin Institute of Technology, 2016
+  * Dissertation: Planning for Robotic Manipulation of Deformation Objects
+* M.S. in Mechatronic Engineering, Harbin Institute of Technology, 2015
+  * Dissertation: Research on Path Planning and Bending Control of an Orthodontic Archwire Bending System
   * Research Internship, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, 2014-2015
-* B.S. in Mechanical and Automation, Wuhan University of Technology, 2012
+* B.S. in Mechanical Engineering and Automation, Wuhan University of Technology, 2012
 
 Work experience
 ======
-* July 2024 till now: Postdoctoral Fellow/Assistant Professor
+* July 2025 till now: Assistant Professor
   * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
-  * Research includes: Robotic Manipulation and Control, Biomechanic System and Application.
+  * Research includes: Dexterous Manipulation and Control, Robotic System Design and Development.
 
-* March 2016 to August 2017: Research Assistant
+* July 2023 to July 2025: Postdoctoral Researcher
+  * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+  * Supervisor: Prof. Guanglin Li
+  * Project: Grasping Manipulation Planning and Control for Multi-fingered Dexterous Hands
+
+* January 2016 to August 2017: Research Assistant
   * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
   * Research includes: ROS-based Robotic System Development, Planning and Control.
   
