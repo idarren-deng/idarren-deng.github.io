@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+* Email: hao.deng@siat.ac.cn
+* Address: Neural Engineering Center, Institute of Advanced Integration Technology, SIAT, CAS, 1068 Xueyuan Ave., Nanshan District, Shenzhen, China
+* Web: https://idarren-deng.github.io/
+
 Bio
 ======
 Dr. Hao Deng is currently an Assistant Professor in robotics and biomechanics at the Institute of Advanced Integration Technology, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (SIAT, CAS).
@@ -30,16 +36,16 @@ Education
 
 Work experience
 ======
-* July 2025 till now: Assistant Professor
+* Jul 2025 – present: Assistant Professor
   * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
   * Research includes: Dexterous Manipulation and Control, Robotic System Design and Development.
 
-* July 2023 to July 2025: Postdoctoral Researcher
+* Jul 2023 – Jul 2025: Postdoctoral Researcher
   * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
   * Supervisor: Prof. Guanglin Li
   * Project: Grasping Manipulation Planning and Control for Multi-fingered Dexterous Hands
 
-* January 2016 to August 2017: Research Assistant
+* Jan 2016 – Aug 2017: Research Assistant
   * Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
   * Research includes: ROS-based Robotic System Development, Planning and Control.
   
